@@ -20,3 +20,11 @@ https://www.origamid.com
 - [x] 02 - Vue.js Para Iniciantes
 - [x] 03 - Diretivas e Hooks
 - [x] 04 - Techno Projeto
+
+## Automação Front End com NPM
+- [x] 01 - Automação Front End com NPM
+
+
+### Links Úteis
+* [Referência para comandos de Bash](https://ss64.com/)
+* [Slides do curso de Vue.js](https://www.origamid.com/slide/vue-js-completo/)
