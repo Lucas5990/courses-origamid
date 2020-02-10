@@ -28,3 +28,4 @@ https://www.origamid.com
 ### Links Úteis
 * [Referência para comandos de Bash](https://ss64.com/)
 * [Slides do curso de Vue.js](https://www.origamid.com/slide/vue-js-completo/)
+* [Slides do curso de JavaScript](https://www.origamid.com/slide/javascript-completo-es6/)
