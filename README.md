@@ -1,56 +1,28 @@
-# courses-origamid
-Origamid front-end development courses files.
-https://www.origamid.com
+# CSS Avançado Posicionamento
 
-## Web Design Completo
-- [x] 01 - Introdução
-- [x] 02 - Teoria do Design
-- [ ] 03 - Design do Projeto
-- [ ] 04 - Básico de Codificação
-- [ ] 05 - Código do Projeto
+## Introdução
+- [X] 01 - Introdução
 
-## CSS Avançado Posicionamento
-- [ ] 01 - Introdução
-- [ ] 02 - Puro, Grid, Flexbox, Bootstrap 1
-- [ ] 03 - Puro, Grid, Flexbox, Bootstrap 2
-- [ ] 04 - Puro, Grid, Flexbox, Bootstrap 3
+## 02 - Brafé 1
+- [X] 02 - Brafé 1 Puro
+- [ ] 02 - Brafé 1 Grid
+- [ ] 02 - Brafé 1 Flexbox
+- [ ] 02 - Brafé 1 Bootstrap
 
-## CSS com SASS
-- [x] 01 - Introdução
-- [ ] 02 - Fundamentos do SASS
-- [ ] 03 - SASS na Prática
-- [ ] 04 - Projeto SASS
+## 03 - Brafé 2
+- [ ] 03 - Brafé 2 Puro
+- [ ] 03 - Brafé 2 Grid
+- [ ] 03 - Brafé 2 Flexbox
+- [ ] 03 - Brafé 2 Bootstrap
 
+## 04 - Brafé 3
+- [ ] 03 - Brafé 3 Puro
+- [ ] 03 - Brafé 3 Grid
+- [ ] 03 - Brafé 3 Flexbox
+- [ ] 03 - Brafé 3 Bootstrap
 
-
-## JavaScript Completo ES6
-- [x] 01 - JavaScript Completo ES6+
-- [x] 02 - JavaScript Para Iniciantes
-- [ ] 03 - Dom Para Iniciantes
-- [ ] 04 - Objetos
-- [ ] 05 - Efeitos no Dom
-- [ ] 06 - JavaScript Assíncrono
-- [ ] 07 - Classes
-- [ ] 08 - Mais JavaScript
-- [ ] 09 - Regular Expression
-- [ ] 10 - Automação Front End
-- [ ] 11 - Refatorar Projeto Final
-- [ ] 12 - Slide
-
-## Vue.js Completo
-- [x] 01 - Vue.js Completo
-- [x] 02 - Vue.js Para Iniciantes
-- [x] 03 - Diretivas e Hooks
-- [x] 04 - Techno Projeto
-- [x] 05 - Componentes
-- [ ] 06 - Animações
-- [ ] 07 - Vue Router
-- [ ] 08 - Vuex
-- [ ] 09 - Projeto Final
-
-## Automação Front End com NPM
-- [x] 01 - Automação Front End com NPM
-
+## Considerações Finais
+- [ ] 05 - Considerações Finais
 
 ### Links Úteis
 * [Referência para comandos de Bash](https://ss64.com/)
