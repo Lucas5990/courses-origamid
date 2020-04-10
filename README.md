@@ -10,8 +10,8 @@ https://www.origamid.com
 - [ ] 05 - Código do Projeto
 
 ## CSS Avançado Posicionamento
-- [ ] 01 - Introdução
-- [ ] 02 - Puro, Grid, Flexbox, Bootstrap 1
+- [x] 01 - Introdução
+- [x] 02 - Puro, Grid, Flexbox, Bootstrap 1
 - [ ] 03 - Puro, Grid, Flexbox, Bootstrap 2
 - [ ] 04 - Puro, Grid, Flexbox, Bootstrap 3
 
