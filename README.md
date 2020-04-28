@@ -1,5 +1,5 @@
 # courses-origamid
-Origamid front-end development courses files.
+Cursos de desenvolvimento front-end da Origamid.
 https://www.origamid.com
 
 ## Web Design Completo
